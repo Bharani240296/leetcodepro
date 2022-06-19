@@ -1,4 +1,4 @@
-package Programming_Skills;
+package Array;
 
 public class signofpro {
     public static int arraySign(int[] nums) {
